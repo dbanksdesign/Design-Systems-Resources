@@ -48,3 +48,4 @@
 * [Design System Weaknesses](https://blog.prototypr.io/design-system-weaknesses-81a562232d98)
 * [Readme driven development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 * [The system always kicks back](https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2)
+* [Implementing Spectrum: How Adobe is Coming Together to Build a New Design System](https://theblog.adobe.com/implementing-spectrum-how-adobe-is-coming-together-to-build-a-new-design-system/)
