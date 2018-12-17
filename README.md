@@ -55,3 +55,7 @@
 ### Colors
 * [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88)
 * [Colors at scale](https://medium.com/design-softexpert/colors-at-scale-c56d9c702e34)
+
+### Process
+#### [Practicing Design Systems](https://medium.com/eightshapes-llc/practicing-design-systems-4029decf9e30)
+This article is great for the early stages of design system development. It includes a great activity to get everyone on the same page with the priority of high-level user stories such as "As an adopter, how do I get updates".
