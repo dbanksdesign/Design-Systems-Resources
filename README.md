@@ -56,6 +56,10 @@
 * [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88)
 * [Colors at scale](https://medium.com/design-softexpert/colors-at-scale-c56d9c702e34)
 
+### Overviews
+#### [The Full Stack Design System](https://www.intercom.com/blog/the-full-stack-design-system/)
+> In each case, the objects don’t just describe a UI widget. They mean something very specific in the context of the product.
+
 ### Process
 #### [Practicing Design Systems](https://medium.com/eightshapes-llc/practicing-design-systems-4029decf9e30)
 This article is great for the early stages of design system development. It includes a great activity to get everyone on the same page with the priority of high-level user stories such as "As an adopter, how do I get updates".
