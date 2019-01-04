@@ -60,6 +60,14 @@
 #### [The Full Stack Design System](https://www.intercom.com/blog/the-full-stack-design-system/)
 > In each case, the objects don’t just describe a UI widget. They mean something very specific in the context of the product.
 
+### Documentation
+#### [Myths of Documenting Components](https://medium.com/eightshapes-llc/myths-of-documenting-components-29a589500505)
+> The most important thing I’ve learned about writing doc is to always be writing doc. Don’t trigger it by a step in the process. Instead, start a living document that grows as you research, design, code and complete a system feature.
+> - Adam Rowe, Morningstar Design System
+
+#### [Authoring Component Documentation](https://medium.com/eightshapes-llc/authoring-component-documentation-6f894b498b88)
+> There’s always more stories to tell, more scenarios to exhibit, more guidelines you could write. Some of them are important. But maybe not as much as other things you could do. And that’s ok. Don’t get anxious about it. Your end goal isn’t doc, it’s end-customer experience quality and speed-to-market.
+
 ### Process
 #### [Practicing Design Systems](https://medium.com/eightshapes-llc/practicing-design-systems-4029decf9e30)
 This article is great for the early stages of design system development. It includes a great activity to get everyone on the same page with the priority of high-level user stories such as "As an adopter, how do I get updates".
