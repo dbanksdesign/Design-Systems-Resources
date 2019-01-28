@@ -2,11 +2,13 @@
 
 ## Books
 * [DesignOps Handbook](https://www.designbetter.co/designops-handbook)
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
 
 
 ## Sites
 * [Design Systems Repo](https://designsystemsrepo.com/)
 * [Design Systems](https://www.designsystems.com/)
+* [Design Systems Medium Articles](https://publication.design.systems/)
 
 ## Tools
 ### [ColorBox.io](https://www.colorbox.io/)
@@ -68,6 +70,20 @@
 #### [Authoring Component Documentation](https://medium.com/eightshapes-llc/authoring-component-documentation-6f894b498b88)
 > There’s always more stories to tell, more scenarios to exhibit, more guidelines you could write. Some of them are important. But maybe not as much as other things you could do. And that’s ok. Don’t get anxious about it. Your end goal isn’t doc, it’s end-customer experience quality and speed-to-market.
 
+### Adoption
+#### [Driving design system adoption](https://uxdesign.cc/driving-design-system-adoption-54f2abf9e32c)
+> ... since launch, we’ve found that our early adopters highly value our documentation as a single source of truth.
+
 ### Process
 #### [Practicing Design Systems](https://medium.com/eightshapes-llc/practicing-design-systems-4029decf9e30)
 This article is great for the early stages of design system development. It includes a great activity to get everyone on the same page with the priority of high-level user stories such as "As an adopter, how do I get updates".
+
+#### [Starting a Design System](http://danmall.me/articles/starting-a-design-system/)
+> A good design system should be a collection of your organization’s best institutional knowledge.
+
+#### [What I learned about leading a design system in 2017](https://publication.design.systems/what-i-learned-about-leading-a-design-system-in-2017-46b85e9d7eab)
+> Of all the investments and effort we put into improving our documentation site, our biggest success this year came from the time we put into the UI kit we created for Sketch.
+
+### Research
+#### [Maintaining design systems with user research](https://medium.com/elisa-design/maintaining-design-systems-with-user-research-3ba5feafc336)
+> Even though there is plenty of design systems by other companies, they all address certain business needs which most likely differ from ours.
