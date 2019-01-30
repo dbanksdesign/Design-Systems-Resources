@@ -76,6 +76,9 @@
 #### [Driving design system adoption](https://uxdesign.cc/driving-design-system-adoption-54f2abf9e32c)
 > ... since launch, we’ve found that our early adopters highly value our documentation as a single source of truth.
 
+#### [Measuring the impact of a design system](https://medium.com/@didoo/measuring-the-impact-of-a-design-system-7f925af090f7)
+> The reason for introducing a design system in a company is not because so people can work less, but because so people can work better. I want people to focus on the important things, and reduce the amount of repetitive work they do.
+
 ### Process
 #### [Practicing Design Systems](https://medium.com/eightshapes-llc/practicing-design-systems-4029decf9e30)
 This article is great for the early stages of design system development. It includes a great activity to get everyone on the same page with the priority of high-level user stories such as "As an adopter, how do I get updates".
