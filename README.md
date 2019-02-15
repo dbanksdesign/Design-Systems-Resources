@@ -99,6 +99,8 @@ This article is great for the early stages of design system development. It incl
 > Good design principles aren’t truisms.
 > Good design principles are applicable.
 
+#### [Art of Diplomacy](https://medium.com/tap-to-dismiss/art-of-diplomacy-2ad1e2cac795)
+> At the end of the day, the system is an internal tool and our coworkers are it’s users. Their human, just like us, and they want to do a good job, just like us. By empathizing, reassuring, educating, remaining flexible, sharing, communicating, and staying positive we’ve overcome many hurdles and are excited to take on new challenges in the future.
 
 #### [What I learned about leading a design system in 2017](https://publication.design.systems/what-i-learned-about-leading-a-design-system-in-2017-46b85e9d7eab)
 > Of all the investments and effort we put into improving our documentation site, our biggest success this year came from the time we put into the UI kit we created for Sketch.
