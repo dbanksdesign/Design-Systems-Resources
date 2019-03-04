@@ -65,6 +65,9 @@ This is a great resource for writing documentation, which is very important in a
 #### [The Full Stack Design System](https://www.intercom.com/blog/the-full-stack-design-system/)
 > In each case, the objects don’t just describe a UI widget. They mean something very specific in the context of the product.
 
+#### [The myth that design systems solve easy problems](https://amyhupe.co.uk/articles/the-myth-that-design-systems-solve-easy-problems/)
+> Design systems fix the common problems, not the easy ones
+
 ### Documentation
 #### [Myths of Documenting Components](https://medium.com/eightshapes-llc/myths-of-documenting-components-29a589500505)
 > The most important thing I’ve learned about writing doc is to always be writing doc. Don’t trigger it by a step in the process. Instead, start a living document that grows as you research, design, code and complete a system feature.
