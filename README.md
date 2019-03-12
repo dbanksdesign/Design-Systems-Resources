@@ -61,6 +61,10 @@ This is a great resource for writing documentation, which is very important in a
 * [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88)
 * [Colors at scale](https://medium.com/design-softexpert/colors-at-scale-c56d9c702e34)
 
+### Animation
+#### [Including Animation In Your Design System](https://www.smashingmagazine.com/2019/02/animation-design-system/)
+> The most effective design systems contain a branded point of view unique to them — things that make their design system more specific to the product they’re for — along with common design best practices.
+
 ### Overviews
 #### [The Full Stack Design System](https://www.intercom.com/blog/the-full-stack-design-system/)
 > In each case, the objects don’t just describe a UI widget. They mean something very specific in the context of the product.
