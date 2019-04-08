@@ -83,6 +83,9 @@ This is a great resource for writing documentation, which is very important in a
 #### [7 tips for starting writing and maintaining your documentation](https://blog.usejournal.com/how-i-document-7-tips-for-starting-writing-and-maintaining-your-documentation-6e858af64c0)
 > Update when someone asks you a question — this is probably my biggest piece of advice on the topic of documentation.
 
+#### [Handling example copy in design systems](https://amyhupe.co.uk/articles/example-copy-in-design-systems/)
+> In the GOV.UK Design System, which I work on, we use realistic copy in most of our examples. We’ve found it helps to give our users an idea of how something works in context and shows, at least implicitly, what good copy looks like.
+
 ### Adoption
 #### [Driving design system adoption](https://uxdesign.cc/driving-design-system-adoption-54f2abf9e32c)
 > ... since launch, we’ve found that our early adopters highly value our documentation as a single source of truth.
