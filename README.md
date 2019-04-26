@@ -115,6 +115,9 @@ This article is great for the early stages of design system development. It incl
 #### [Design Quality Components](https://medium.com/tap-to-dismiss/design-quality-components-a86ec8691fd2)
 > A quality component feels like the company and works as intended every time for all users — a crafted balance of brand essence and science.
 
+#### [Pairing is the key to evangelizing your design system](https://www.figma.com/blog/pairing-is-the-key-to-evangelizing-your-design-system/)
+> But it turns out a design system can't be perfected in solitude because it's rooted in human relationships. It serves as a mirror for the company, a reflection of the dynamics at play between designers, engineers, product managers and even customers. 
+
 #### [What I learned about leading a design system in 2017](https://publication.design.systems/what-i-learned-about-leading-a-design-system-in-2017-46b85e9d7eab)
 > Of all the investments and effort we put into improving our documentation site, our biggest success this year came from the time we put into the UI kit we created for Sketch.
 
