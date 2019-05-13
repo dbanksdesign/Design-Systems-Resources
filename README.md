@@ -10,6 +10,12 @@ This is a great resource for writing documentation, which is very important in a
 * [Design Systems Repo](https://designsystemsrepo.com/)
 * [Design Systems](https://www.designsystems.com/)
 * [Design Systems Medium Articles](https://publication.design.systems/)
+* [Design Principles](https://principles.design/)
+
+## Presentations
+#### [Design Systems and Front-End Architecture](https://noti.st/sturobson/yc1gwN/design-systems-and-front-end-architecture)
+- [Stu Robson](https://twitter.com/sturobson)
+
 
 ## Tools
 * [ColorBox.io](https://www.colorbox.io/)
@@ -72,6 +78,10 @@ This is a great resource for writing documentation, which is very important in a
 #### [The myth that design systems solve easy problems](https://amyhupe.co.uk/articles/the-myth-that-design-systems-solve-easy-problems/)
 > Design systems fix the common problems, not the easy ones
 
+#### [Distilling How We Think About Design Systems](https://publication.design.systems/distilling-how-we-think-about-design-systems-b26432eefef9)
+> Don’t get trapped in defining things instead of explaining things.
+> [Sarah Federman](https://twitter.com/sarah_federman)
+
 ### Documentation
 #### [Myths of Documenting Components](https://medium.com/eightshapes-llc/myths-of-documenting-components-29a589500505)
 > The most important thing I’ve learned about writing doc is to always be writing doc. Don’t trigger it by a step in the process. Instead, start a living document that grows as you research, design, code and complete a system feature.
@@ -117,6 +127,9 @@ This article is great for the early stages of design system development. It incl
 
 #### [Pairing is the key to evangelizing your design system](https://www.figma.com/blog/pairing-is-the-key-to-evangelizing-your-design-system/)
 > But it turns out a design system can't be perfected in solitude because it's rooted in human relationships. It serves as a mirror for the company, a reflection of the dynamics at play between designers, engineers, product managers and even customers. 
+
+#### [Size in Design Systems](https://medium.com/eightshapes-llc/size-in-design-systems-64f234aec519)
+> 
 
 #### [What I learned about leading a design system in 2017](https://publication.design.systems/what-i-learned-about-leading-a-design-system-in-2017-46b85e9d7eab)
 > Of all the investments and effort we put into improving our documentation site, our biggest success this year came from the time we put into the UI kit we created for Sketch.
