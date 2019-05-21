@@ -62,6 +62,7 @@ This is a great resource for writing documentation, which is very important in a
 * [The system always kicks back](https://ux.shopify.com/the-system-always-kicks-back-d94b945407f2)
 * [Implementing Spectrum: How Adobe is Coming Together to Build a New Design System](https://theblog.adobe.com/implementing-spectrum-how-adobe-is-coming-together-to-build-a-new-design-system/)
 * [Versioning Design Systems](https://medium.com/eightshapes-llc/versioning-design-systems-48cceb5ace4d)
+* [Design Systems Ops](https://medium.com/@kaelig/introducing-design-systems-ops-7f34c4561ba7)
 
 ### Colors
 * [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88)
@@ -120,7 +121,7 @@ This article is great for the early stages of design system development. It incl
 > Good design principles are applicable.
 
 #### [Art of Diplomacy](https://medium.com/tap-to-dismiss/art-of-diplomacy-2ad1e2cac795)
-> At the end of the day, the system is an internal tool and our coworkers are it’s users. Their human, just like us, and they want to do a good job, just like us. By empathizing, reassuring, educating, remaining flexible, sharing, communicating, and staying positive we’ve overcome many hurdles and are excited to take on new challenges in the future.
+> At the end of the day, the system is an internal tool and our coworkers are its users. Their human, just like us, and they want to do a good job, just like us. By empathizing, reassuring, educating, remaining flexible, sharing, communicating, and staying positive we’ve overcome many hurdles and are excited to take on new challenges in the future.
 
 #### [Design Quality Components](https://medium.com/tap-to-dismiss/design-quality-components-a86ec8691fd2)
 > A quality component feels like the company and works as intended every time for all users — a crafted balance of brand essence and science.
