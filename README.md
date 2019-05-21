@@ -142,7 +142,7 @@ This article is great for the early stages of design system development. It incl
 > Even though there is plenty of design systems by other companies, they all address certain business needs which most likely differ from ours.
 
 ### Naming
-####[How to name UI components](https://uxdesign.cc/how-to-name-ui-components-fd06b84e92dc)
+#### [How to name UI components](https://uxdesign.cc/how-to-name-ui-components-fd06b84e92dc)
 > Good names help team members who did not design or build the patterns understand their use.
 > Good names help onboard new hires faster.
 > Good names are memorable.
