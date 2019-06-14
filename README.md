@@ -19,6 +19,8 @@ This is a great resource for writing documentation, which is very important in a
 ## Presentations
 #### [Design Systems and Front-End Architecture](https://noti.st/sturobson/yc1gwN/design-systems-and-front-end-architecture)
 - [Stu Robson](https://twitter.com/sturobson)
+#### [The Future of Design Systems](https://www.youtube.com/watch?v=mq984Mc9UVA)
+- Haley Hughes (Airbnb)
 
 ----
 
@@ -84,6 +86,10 @@ This article is great for the early stages of design system development. It incl
 
 #### [Size in Design Systems](https://medium.com/eightshapes-llc/size-in-design-systems-64f234aec519)
 > 
+
+
+### [Stability in Design Systems](https://medium.com/designbetter/is-your-design-system-stable-52dddddeb4fa)
+> Reduce the distance between your documentation and code. By co-locating documentation and code, it’s more likely that you’ll remember to update the documentation when a component changes.
 
 ----
 
