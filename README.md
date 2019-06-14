@@ -88,8 +88,12 @@ This article is great for the early stages of design system development. It incl
 > 
 
 
-### [Stability in Design Systems](https://medium.com/designbetter/is-your-design-system-stable-52dddddeb4fa)
+#### [Stability in Design Systems](https://medium.com/designbetter/is-your-design-system-stable-52dddddeb4fa)
 > Reduce the distance between your documentation and code. By co-locating documentation and code, it’s more likely that you’ll remember to update the documentation when a component changes.
+
+#### [Tracking Polaris](https://ux.shopify.com/tracking-polaris-adfa97f42c3f)
+> Barriers to involvement are often invisible
+> The more complex an organization gets, the more we need to lean on a system to enable competent, cohesive decisions
 
 ----
 
