@@ -95,6 +95,11 @@ This article is great for the early stages of design system development. It incl
 > Barriers to involvement are often invisible
 > The more complex an organization gets, the more we need to lean on a system to enable competent, cohesive decisions
 
+#### [Sustainable Design Systems | decoupling purpose from outputs](https://tinyletter.com/alanbsmith/letters/sustainable-design-systems-decoupling-purpose-from-outputs)
+> If you try to over-optimize for UI consistency, you’ll end up with a system that is too rigid or can’t adapt to consumer needs. If you over-emphasize development speed, you’ll likely sacrifice quality.
+> *Instead, we should optimize for resilience and adaptability.*
+> [Alan B Smith](https://twitter.com/_alanbsmith)
+
 ----
 
 ### Documentation
@@ -178,15 +183,18 @@ This article is great for the early stages of design system development. It incl
 > Good names help team members who did not design or build the patterns understand their use.
 > Good names help onboard new hires faster.
 > Good names are memorable.
-<<<<<<< Updated upstream
-=======
-
 
 ----
 
 ### Versioning / Releasing
 
 #### [Versioning Design Systems](https://medium.com/eightshapes-llc/versioning-design-systems-48cceb5ace4d)
+
+----
+
+### Content
+
+#### [Why your design system should include content](https://medium.com/@rachel.mcconnell/why-your-design-system-should-include-content-c1fb7109ba88)
 
 ----
 
