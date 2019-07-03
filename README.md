@@ -104,6 +104,9 @@ This article is great for the early stages of design system development. It incl
 
 ### Documentation
 
+#### [How we built a component library that people actually enjoy using](https://medium.com/styled-components/how-to-build-a-great-component-library-a40d974a412d)
+> Great documentation should be less like a document and more like a workshop.
+
 #### [Myths of Documenting Components](https://medium.com/eightshapes-llc/myths-of-documenting-components-29a589500505)
 > The most important thing I’ve learned about writing doc is to always be writing doc. Don’t trigger it by a step in the process. Instead, start a living document that grows as you research, design, code and complete a system feature.
 > - Adam Rowe, Morningstar Design System
