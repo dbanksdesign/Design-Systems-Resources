@@ -199,6 +199,9 @@ This article is great for the early stages of design system development. It incl
 
 #### [Why your design system should include content](https://medium.com/@rachel.mcconnell/why-your-design-system-should-include-content-c1fb7109ba88)
 
+#### [When copy components work — and when they fail](https://medium.com/@z.jurgen/when-copy-components-work-and-when-they-fail-f40c3a6ae4c5)
+> Use all your powers to give your offsite / unsupported teams every conceivable resource and tool they’ll need to help themselves. You can never guarantee that their copy will be wonderful, but at least you’re helping establish some kind of baseline. Unremarkable functional copy is always better than utterly fucked copy.
+
 ----
 
 ### Unorganized
