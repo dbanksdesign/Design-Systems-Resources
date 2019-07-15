@@ -27,6 +27,7 @@ This is a great resource for writing documentation, which is very important in a
 ## Tools
 * [ColorBox.io](https://www.colorbox.io/)
 * [Cloudflare Color](https://cloudflare.design/color/)
+* [Design Principles](https://principles.design/)
 
 ----
 
@@ -201,6 +202,20 @@ This article is great for the early stages of design system development. It incl
 
 #### [When copy components work — and when they fail](https://medium.com/@z.jurgen/when-copy-components-work-and-when-they-fail-f40c3a6ae4c5)
 > Use all your powers to give your offsite / unsupported teams every conceivable resource and tool they’ll need to help themselves. You can never guarantee that their copy will be wonderful, but at least you’re helping establish some kind of baseline. Unremarkable functional copy is always better than utterly fucked copy.
+
+----
+
+### Technology
+
+#### [managing technology-agnostic design systems](http://bradfrost.com/blog/post/managing-technology-agnostic-design-systems/)
+> Creating a technology dependency in order to achieve a specific UI style inherently limits where that UI can go. 
+
+----
+
+### Components
+
+#### [Component API Design Guidelines](https://tinyletter.com/alanbsmith/letters/component-api-design-guidelines)
+>
 
 ----
 
