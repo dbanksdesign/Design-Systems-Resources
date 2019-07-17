@@ -53,7 +53,10 @@ This is a great resource for writing documentation, which is very important in a
 
 #### [Introducing Spectrum: How Adobe Is Building a Design System at Scale](https://theblog.adobe.com/introducing-spectrum-adobe-building-design-system-scale/)
 
-#### [Colors at scale: Redefining SE Suite UI’s Color Palette](https://medium.com/@alisonsilva/c56d9c702e34)
+
+#### [How To Make Design Systems Work](https://medium.com/microsoft-design/how-to-make-design-systems-work-9db0c556ed82)
+> design systems should be like the ship of Theseus — as their components change and are replaced, they should fundamentally remain the same vessel with the same purpose.
+
 
 ----
 
@@ -153,6 +156,8 @@ This article is great for the early stages of design system development. It incl
 #### [Polishing Gitlab's UI: A New Color System](https://about.gitlab.com/2018/03/29/polishing-gitlabs-ui-a-new-color-system/)
 
 #### [Designing Systematic Colors](https://uxplanet.org/designing-systematic-colors-b5d2605b15c)
+
+#### [Colors at scale: Redefining SE Suite UI’s Color Palette](https://medium.com/@alisonsilva/c56d9c702e34)
 
 ----
 
