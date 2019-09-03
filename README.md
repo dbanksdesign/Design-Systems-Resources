@@ -138,6 +138,8 @@ This article is great for the early stages of design system development. It incl
 
 #### [Themeable Design Systems](http://bradfrost.com/blog/post/creating-themeable-design-systems/)
 
+#### [Getting design system customization just right](https://ux.shopify.com/getting-design-system-customization-just-right-3012151ef5ea)
+> Guided theme building allows your components to be themed to a degree that allows third parties to use them to create their own product, with its own look and feel, but removes the risk of people over-customizing them. 
 
 ----
 
