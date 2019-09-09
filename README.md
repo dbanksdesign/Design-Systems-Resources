@@ -57,6 +57,8 @@ This is a great resource for writing documentation, which is very important in a
 #### [How To Make Design Systems Work](https://medium.com/microsoft-design/how-to-make-design-systems-work-9db0c556ed82)
 > design systems should be like the ship of Theseus — as their components change and are replaced, they should fundamentally remain the same vessel with the same purpose.
 
+#### [The ABCs of Design Systems](https://medium.com/curiosity-by-design/the-abcs-of-design-systems-b1dc6198bb7c)
+> Your design systems ability to bridge gaps between disciplines is a superpower
 
 ----
 
