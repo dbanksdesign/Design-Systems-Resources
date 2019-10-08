@@ -60,6 +60,9 @@ This is a great resource for writing documentation, which is very important in a
 #### [The ABCs of Design Systems](https://medium.com/curiosity-by-design/the-abcs-of-design-systems-b1dc6198bb7c)
 > Your design systems ability to bridge gaps between disciplines is a superpower
 
+#### [Think like a chef: how to use a design system](https://ux.shopify.com/think-like-a-chef-how-to-use-a-design-system-ae1f0e0e0dd7)
+> The components act as your ingredients, while the patterns and guides act as your recipes.
+
 ----
 
 ### Process
@@ -162,6 +165,8 @@ This article is great for the early stages of design system development. It incl
 #### [Designing Systematic Colors](https://uxplanet.org/designing-systematic-colors-b5d2605b15c)
 
 #### [Colors at scale: Redefining SE Suite UI’s Color Palette](https://medium.com/@alisonsilva/c56d9c702e34)
+
+#### [Because, colors are beautiful](https://medium.com/carbondesign/because-colors-are-beautiful-52dd4cc39f09)
 
 ----
 
