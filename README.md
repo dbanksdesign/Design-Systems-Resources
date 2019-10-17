@@ -168,6 +168,9 @@ This article is great for the early stages of design system development. It incl
 
 #### [Because, colors are beautiful](https://medium.com/carbondesign/because-colors-are-beautiful-52dd4cc39f09)
 
+#### [Designing accessible color systems](https://stripe.com/blog/accessible-color-systems)
+> When designing an accessible color system, using a perceptually uniform color model (like CIELAB) helped us understand how each color appears to our eyes as opposed to how it appears to a computer.
+
 ----
 
 ### Animation
