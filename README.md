@@ -220,6 +220,9 @@ This article is great for the early stages of design system development. It incl
 #### [When copy components work — and when they fail](https://medium.com/@z.jurgen/when-copy-components-work-and-when-they-fail-f40c3a6ae4c5)
 > Use all your powers to give your offsite / unsupported teams every conceivable resource and tool they’ll need to help themselves. You can never guarantee that their copy will be wonderful, but at least you’re helping establish some kind of baseline. Unremarkable functional copy is always better than utterly fucked copy.
 
+#### [Content in, for, and of Design Systems](https://medium.com/indeed-design/content-in-for-and-of-design-systems-80f565d77902)
+
+
 ----
 
 ### Technology
