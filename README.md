@@ -109,6 +109,9 @@ This article is great for the early stages of design system development. It incl
 > *Instead, we should optimize for resilience and adaptability.*
 > [Alan B Smith](https://twitter.com/_alanbsmith)
 
+#### [A Design System Governance Process](https://bradfrost.com/blog/post/a-design-system-governance-process/)
+> Product teams’ primary concern is getting work out the door, not to uphold the integrity of the design system.
+
 ----
 
 ### Documentation
