@@ -63,6 +63,9 @@ This is a great resource for writing documentation, which is very important in a
 #### [Think like a chef: how to use a design system](https://ux.shopify.com/think-like-a-chef-how-to-use-a-design-system-ae1f0e0e0dd7)
 > The components act as your ingredients, while the patterns and guides act as your recipes.
 
+#### [Reimagining Design Systems at Spotify](https://spotify.design/articles/2019-12-16/reimagining-design-systems-at-spotify/)
+> This time, we wanted to design our design system, just like we’d design one of our product experiences. We weren’t starting with a completely blank slate, though. We wanted to consolidate the resources we had, and create a system that felt unified, accessible, collaborative, and based on a coherent vision. Most importantly, we wanted a system that would fit with Spotify’s culture of autonomy—one that could scale across multiple platforms and use cases.
+
 ----
 
 ### Process
