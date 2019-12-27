@@ -66,6 +66,9 @@ This is a great resource for writing documentation, which is very important in a
 #### [Reimagining Design Systems at Spotify](https://spotify.design/articles/2019-12-16/reimagining-design-systems-at-spotify/)
 > This time, we wanted to design our design system, just like we’d design one of our product experiences. We weren’t starting with a completely blank slate, though. We wanted to consolidate the resources we had, and create a system that felt unified, accessible, collaborative, and based on a coherent vision. Most importantly, we wanted a system that would fit with Spotify’s culture of autonomy—one that could scale across multiple platforms and use cases.
 
+#### [State of Design Systems 2019](https://medium.com/google-design/state-of-design-systems-2019-ff5f26ada71)
+> Design systems are not just an embodiment of aesthetics and brand identity, they represent an organization’s workflow and processes.
+
 ----
 
 ### Process
